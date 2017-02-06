@@ -1,5 +1,3 @@
-# Tanner Frandsen
-# Archive Number AV-47013
 # Purpose: Add override to the files found in list.txt
 #           format for list .txt is [file Name], [Line Number]
 
