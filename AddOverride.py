@@ -20,7 +20,6 @@ def fixFiles(file_name):
     with open(file_name, 'w') as out_file:
         out_file.writelines(data)
 
-
 def validate_file(pars, arg):
     if not os.path.exists(arg):
         pars.error(f'File {arg} does not exist')
